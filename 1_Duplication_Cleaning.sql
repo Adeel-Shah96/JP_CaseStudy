@@ -1,6 +1,3 @@
-Data cleaning
-==============
-
 -- In order to remove duplications from tables in BigQuery
 
 -- For Installs table
